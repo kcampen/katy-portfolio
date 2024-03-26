@@ -599,6 +599,10 @@ video {
   margin-right: auto;
 }
 
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -607,8 +611,12 @@ video {
   margin-bottom: 6rem;
 }
 
-.mb-8 {
-  margin-bottom: 2rem;
+.mb-28 {
+  margin-bottom: 7rem;
+}
+
+.mb-32 {
+  margin-bottom: 8rem;
 }
 
 .mt-12 {
